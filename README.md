@@ -1,4 +1,4 @@
-## A Synthesis Approach to Semi-Supervised 3D Pose Estimation from Single Images (Under CVPR2021 Anonymous Review)
+## A Synthesis Approach to Semi-Supervised 3D Pose Estimation from Single Images
 
 ### Human Qualitative Results
 
